@@ -1,5 +1,7 @@
 # WeChat Binding & Greeting Confirmation Demo
 
+![WeChat Binding Demo Preview](./demo.png)
+
 基于 **FastAPI (Python)** + **React (TypeScript) + Ant Design 5** 实现的微信服务通知绑定/解绑/打招呼激活会话流程最小 Demo。
 
 ## 功能特性
@@ -30,4 +32,3 @@
 
 3. 访问前端开发服务器：
    打开浏览器访问 [http://localhost:3000](http://localhost:3000) 进行体验。
-# wechatbot-demo
